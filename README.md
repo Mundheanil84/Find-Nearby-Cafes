@@ -13,7 +13,7 @@ system, allowing users to either use their current location or explore cafes in 
 ## 🔗 Links
 
 - **Live Demo**: [https://cafe-finder-demo.netlify.app](https://near-cafe.vercel.app/)
-- **Documentation**: [https://github.com/username/cafe-finder/wiki](https://github.com/username/cafe-finder/wiki)
+- **Documentation**: [https://github.com/username/cafe-finder/wiki](https://github.com/Mundheanil84/Find-Nearby-Cafes/blob/main/Find_Nearby_Cafes_Map.pdf))
 ---
 
 ## 🌟 Features
