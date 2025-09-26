@@ -1,7 +1,9 @@
 
 # ☕ Find Nearby Cafes
 
-An interactive web application that helps users discover coffee shops and cafes across major Indian cities. Built with React, Leaflet.js, and Tailwind CSS.
+Find Nearby Cafes is an interactive web application that helps users discover coffee shops and cafes across
+major Indian cities. The application features an intuitive map interface combined with a comprehensive search
+system, allowing users to either use their current location or explore cafes in specific cities.
 
 ![React](https://img.shields.io/badge/React-18.2.0-blue)
 ![Leaflet](https://img.shields.io/badge/Leaflet-1.9.4-green)
