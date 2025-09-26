@@ -1,0 +1,124 @@
+{
+  "cafes": [
+    {
+      "id": 1,
+      "name": "Chaayos",
+      "latitude": 28.6139,
+      "longitude": 77.2090,
+      "address": "Connaught Place, Delhi",
+      "city": "Delhi",
+      "rating": 4.5,
+      "hours": "7:00 AM - 11:00 PM",
+      "type": "Tea House",
+      "specialty": "Masala Chai"
+    },
+    {
+      "id": 2,
+      "name": "Third Wave Coffee",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "address": "Koramangala, Bangalore",
+      "city": "Bangalore",
+      "rating": 4.6,
+      "hours": "7:00 AM - 11:30 PM",
+      "type": "Specialty Coffee",
+      "specialty": "Cold Brew"
+    },
+    {
+      "id": 3,
+      "name": "Blue Tokai",
+      "latitude": 19.0760,
+      "longitude": 72.8777,
+      "address": "Bandra West, Mumbai",
+      "city": "Mumbai",
+      "rating": 4.4,
+      "hours": "8:00 AM - 10:00 PM",
+      "type": "Coffee Roasters",
+      "specialty": "Pour Over"
+    },
+    {
+      "id": 4,
+      "name": "Chai Point",
+      "latitude": 17.3850,
+      "longitude": 78.4867,
+      "address": "Banjara Hills, Hyderabad",
+      "city": "Hyderabad",
+      "rating": 4.3,
+      "hours": "6:30 AM - 10:00 PM",
+      "type": "Tea Chain",
+      "specialty": "Ginger Chai"
+    },
+    {
+      "id": 5,
+      "name": "Indian Coffee House",
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "address": "Mount Road, Chennai",
+      "city": "Chennai",
+      "rating": 4.2,
+      "hours": "7:00 AM - 10:00 PM",
+      "type": "Heritage Cafe",
+      "specialty": "Filter Coffee"
+    },
+    {
+      "id": 6,
+      "name": "Flurys",
+      "latitude": 22.5726,
+      "longitude": 88.3639,
+      "address": "Park Street, Kolkata",
+      "city": "Kolkata",
+      "rating": 4.5,
+      "hours": "7:00 AM - 10:30 PM",
+      "type": "Confectionery",
+      "specialty": "English Breakfast"
+    },
+    {
+      "id": 7,
+      "name": "Marriott Cafe",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "address": "Koregaon Park, Pune",
+      "city": "Pune",
+      "rating": 4.4,
+      "hours": "6:00 AM - 11:00 PM",
+      "type": "Luxury Cafe",
+      "specialty": "Cappuccino"
+    },
+    {
+      "id": 8,
+      "name": "Tapri",
+      "latitude": 26.9124,
+      "longitude": 75.7873,
+      "address": "C-Scheme, Jaipur",
+      "city": "Jaipur",
+      "rating": 4.3,
+      "hours": "6:00 AM - 11:00 PM",
+      "type": "Tea House",
+      "specialty": "Rajasthani Tea"
+    },
+    {
+      "id": 9,
+      "name": "Manek Chowk",
+      "latitude": 23.0225,
+      "longitude": 72.5714,
+      "address": "Old City, Ahmedabad",
+      "city": "Ahmedabad",
+      "rating": 4.6,
+      "hours": "5:00 AM - 11:00 PM",
+      "type": "Street Food",
+      "specialty": "Irani Chai"
+    },
+    {
+      "id": 10,
+      "name": "Hazelnut Factory",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "address": "Indiranagar, Bangalore",
+      "city": "Bangalore",
+      "rating": 4.5,
+      "hours": "7:30 AM - 11:00 PM",
+      "type": "Dessert Cafe",
+      "specialty": "Hazelnut Coffee"
+    }
+  ]
+}
