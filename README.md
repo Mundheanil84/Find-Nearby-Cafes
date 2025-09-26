@@ -12,10 +12,8 @@ system, allowing users to either use their current location or explore cafes in 
 
 ## 🔗 Links
 
-- **Live Demo**: [https://cafe-finder-demo.netlify.app](https://cafe-finder-demo.netlify.app)
+- **Live Demo**: [https://cafe-finder-demo.netlify.app](https://near-cafe.vercel.app/)
 - **Documentation**: [https://github.com/username/cafe-finder/wiki](https://github.com/username/cafe-finder/wiki)
-- **API Reference**: [https://github.com/username/cafe-finder/docs](https://github.com/username/cafe-finder/docs)
-
 ---
 
 ## 🌟 Features
